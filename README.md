@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-xSwatch4
-=======
 xSwatch4 (Bootstrap 4) theme for XOOPS 2.5.10
->>>>>>> initial
-=======
 
 xSwatch4 is a theme for [XOOPS 2.5.11](https://xoops.org) that is based on [Bootstrap](https://getbootstrap.com) 4.4.1.
 
@@ -32,10 +27,7 @@ In theme.tpl file :
 - customize cookie consent in tpl/cookieConsent.tpl, or disable include in theme.tpl
 - customize or disable inbox alert in theme.tpl and tpl/inboxAlert.tpl
 - for best experience install both the PM and Profile modules
-<<<<<<< HEAD
-=======
 - customize xmnews blocks : for column blocks, copy xmnews_block_colonnes.tpl to xmnews_block.tpl (copy xmnews_block_lignes.tpl to xmnews_block.tpl to return to initial state)
->>>>>>> initial
 
 In addition to templates for the modules included in XOOPS (pm, profile and system,) Bootstrap v4.4 templates are included for the following modules:
 
@@ -53,21 +45,11 @@ In addition to templates for the modules included in XOOPS (pm, profile and syst
 - xmnews - [GregMage/xmnews](https://github.com/GregMage/xmnews)
 - xoopsfaq - [XoopsModules25x/xoopsfaq](https://github.com/XoopsModules25x/xoopsfaq)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> initial
 Credits:
-
 - Grégory Mage - [xm modules templates](https://github.com/GregMage)
 - Twitter Bootstrap - [Bootstrap](https://getbootstrap.com)
 - Angelo Rocha - [xBootStrap](https://github.com/angelorocha/xbootstrap)
 - Thomas Park - [BootSwatch](https://bootswatch.com/)
 - Silktide - [Cookie Consent](https://silktide.com/tools/cookie-consent/)
 - Klaus Hartl - [js-cookie](https://github.com/js-cookie/js-cookie)
-<<<<<<< HEAD
-- Alain01 - 21 themes in 1 theme
-=======
 - Alain01 - 21 themes in 1 theme + xmnews templates
-
->>>>>>> initial
